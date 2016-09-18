@@ -27,8 +27,12 @@ Useful links
 -  Full book (`HTML <https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_ / `Kindle <https://github.com/twcamper/sicp-kindle>`_ / `PDF <http://web.mit.edu/alexmv/6.037/sicp.pdf>`_)
 - `Text to video map <http://community.schemewiki.org/?sicp-text-to-video-map>`_
 - `Scheme at a Glance <http://www.troubleshooters.com/codecorn/scheme_guile/hello.htm>`_
+- `Revised Report On Algorithmic Language Scheme <http://c2.com/cgi/wiki?RevisedReportOnAlgorithmicLanguageScheme>`_
+- `CHICKEN Scheme - Getting started <http://wiki.call-cc.org/man/4/Getting%20started>`_
 
 Other solutions
 ~~~~~~~~~~~~~~~
 
 - https://github.com/ivanjovanovic/sicp
+- http://eli.thegreenplace.net/tag/sicp
+- http://community.schemewiki.org/?SICP-Solutions
