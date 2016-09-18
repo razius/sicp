@@ -18,13 +18,6 @@ Declarative knowledge (what is true):
 Imperative knowledge (how-to)
   Tents to describe a sequence of steps that characterize the evolution of a process
 
-.. list-table::
-
-   * - Topic
-     - Prerequisites
-     - Lecture Slides
-     - Lecture Videos
-
 1.1.1 Expressions
 ~~~~~~~~~~~~~~~~~
 
