@@ -14,9 +14,13 @@ Calendar
      - Lecture Slides
      - Lecture Videos
    * - Introduction to Computation
-     - `Section 1.1 <https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1>`_
-     - `Link <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture1webhand.pdf>`_
-     - `Overview and Introduction to Lisp <https://www.youtube.com/watch?v=2Op3QLzMgSY&index=1&list=PLE18841CABEA24090>`_
+     - `Section 1.1 <https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1>`__
+     - `Link <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture1webhand.pdf>`__
+     - `Overview and Introduction to Lisp <https://www.youtube.com/watch?v=2Op3QLzMgSY&index=1&list=PLE18841CABEA24090>`__
+   * - Scheme Basics
+     - `Section 1.2 <https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2>`__
+     - `Link <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture2webhand.pdf>`__
+     - `Procedures and Processes; Substitution Model <https://www.youtube.com/watch?v=dlbMuv-jix8&list=PLE18841CABEA24090&index=2>`__
 
 Useful links
 ~~~~~~~~~~~~
